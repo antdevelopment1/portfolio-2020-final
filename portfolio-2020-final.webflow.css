@@ -1982,7 +1982,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/square-3.png'), url('../images/Square-5.png'), url('../images/square-3.png');
+  background-image: url('square-3.png'), url('Square-5.png'), url('square-3.png');
   background-position: 0px 86px, 50% 50%, 100% 0px;
   background-size: 14%, 6%, 8%;
   background-repeat: no-repeat, no-repeat, no-repeat;
@@ -1996,7 +1996,7 @@ blockquote {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  background-image: linear-gradient(312deg, rgba(252, 111, 0, 0.96), rgba(140, 15, 255, 0.94)), url('../images/bady-qb-751620-unsplash-1.jpg');
+  background-image: linear-gradient(312deg, rgba(252, 111, 0, 0.96), rgba(140, 15, 255, 0.94)), url('bady-qb-751620-unsplash-1.jpg');
   background-position: 0px 0px, 0px 76%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -2278,7 +2278,7 @@ blockquote {
   border-top: 1px none #e4e4e4;
   border-bottom: 1px none #e4e4e4;
   background-color: #fff;
-  background-image: url('../images/April-BG-2.png');
+  background-image: url('April-BG-2.png');
   background-position: 0% 100%;
   background-size: cover;
 }
@@ -2304,7 +2304,7 @@ blockquote {
 
 .section.white.no-padding.they-say {
   padding-top: 0px;
-  background-image: url('../images/Square-5.png');
+  background-image: url('Square-5.png');
   background-position: 87% 25%;
   background-size: 4%;
   background-repeat: no-repeat;
@@ -2318,21 +2318,21 @@ blockquote {
 .section.white.line {
   border-top-style: solid;
   border-top-color: rgba(228, 236, 246, 0.8);
-  background-image: url('../images/square-2.png');
+  background-image: url('square-2.png');
   background-position: 75% 92%;
   background-size: 80px;
   background-repeat: no-repeat;
 }
 
 .section.white.message {
-  background-image: url('../images/Square-5.png');
+  background-image: url('Square-5.png');
   background-position: 100% -9px;
   background-size: 150px;
   background-repeat: no-repeat;
 }
 
 .section.white.pricing-table {
-  background-image: url('../images/Square-5.png'), url('../images/square-9.png');
+  background-image: url('Square-5.png'), url('square-9.png');
   background-position: 86% 8%, 0px 0px;
   background-size: 5%, 250px;
   background-repeat: no-repeat, no-repeat;
@@ -2340,7 +2340,7 @@ blockquote {
 
 .section.white.pattern {
   padding: 150px 20px 0px;
-  background-image: url('../images/Square-5.png');
+  background-image: url('Square-5.png');
   background-position: 94% 92px;
   background-size: 100px;
   background-repeat: no-repeat;
@@ -2372,8 +2372,8 @@ blockquote {
 }
 
 .section.white.image {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.95)), to(hsla(0, 0%, 100%, 0.95))), url('../images/image5.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.95), hsla(0, 0%, 100%, 0.95)), url('../images/image5.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.95)), to(hsla(0, 0%, 100%, 0.95))), url('image5.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.95), hsla(0, 0%, 100%, 0.95)), url('image5.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -2387,7 +2387,7 @@ blockquote {
   padding-top: 120px;
   padding-bottom: 120px;
   background-color: transparent;
-  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.93) 19%, rgba(255, 6, 156, 0.88)), url('../images/square-3.png'), url('../images/square-3.png'), linear-gradient(180deg, rgba(252, 111, 0, 0.94), rgba(252, 111, 0, 0.94));
+  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.93) 19%, rgba(255, 6, 156, 0.88)), url('square-3.png'), url('square-3.png'), linear-gradient(180deg, rgba(252, 111, 0, 0.94), rgba(252, 111, 0, 0.94));
   background-position: 0px 0px, 100% 100%, 43px 0px, 0px 0px;
   background-size: auto, 150px, 250px, auto;
   background-repeat: repeat, no-repeat, no-repeat, repeat;
@@ -2396,7 +2396,7 @@ blockquote {
 
 .section.orange.services {
   padding: 120px 20px;
-  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.93) 29%, rgba(255, 6, 156, 0.9)), url('../images/square-3.png'), url('../images/square-3.png'), linear-gradient(180deg, #fc6f00, #fc6f00);
+  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.93) 29%, rgba(255, 6, 156, 0.9)), url('square-3.png'), url('square-3.png'), linear-gradient(180deg, #fc6f00, #fc6f00);
   background-position: 0px 0px, 100% 100%, 43px 0px, 0px 0px;
   background-size: auto, 150px, 250px, auto;
   background-repeat: repeat, no-repeat, no-repeat, repeat;
@@ -2409,7 +2409,7 @@ blockquote {
 }
 
 .section.both-side-padding.single {
-  background-image: url('../images/43243.png');
+  background-image: url('43243.png');
   background-position: 61px 0px;
   background-size: 10%;
   background-repeat: no-repeat;
@@ -2459,7 +2459,7 @@ blockquote {
 }
 
 .section.with-gradient {
-  background-image: url('../images/square-9.png');
+  background-image: url('square-9.png');
   background-position: 100px 36px;
   background-size: 7%;
   background-repeat: no-repeat;
@@ -2467,7 +2467,7 @@ blockquote {
 
 .section.no-padding-bottom {
   padding-bottom: 0px;
-  background-image: radial-gradient(circle farthest-corner at 50% 50%, #f4f5f9, hsla(0, 0%, 100%, 0)), url('../images/square-9.png');
+  background-image: radial-gradient(circle farthest-corner at 50% 50%, #f4f5f9, hsla(0, 0%, 100%, 0)), url('square-9.png');
   background-position: 0px 0px, 199px 0px;
   background-size: auto, 10%;
   background-repeat: repeat, no-repeat;
@@ -2483,15 +2483,15 @@ blockquote {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-image: radial-gradient(circle farthest-corner at 50% 50%, #f4f5f9, hsla(0, 0%, 100%, 0)), url('../images/square-9.png');
+  background-image: radial-gradient(circle farthest-corner at 50% 50%, #f4f5f9, hsla(0, 0%, 100%, 0)), url('square-9.png');
   background-position: 0px 0px, 199px 0px;
   background-size: auto, 10%;
   background-repeat: repeat, no-repeat;
 }
 
 .section.white-gradient {
-  background-image: url('../images/squre-8.png'), url('../images/43243.png'), url('../images/Square-5.png'), url('../images/square-3.png'), -webkit-gradient(linear, left top, left bottom, color-stop(40%, #fff), to(transparent));
-  background-image: url('../images/squre-8.png'), url('../images/43243.png'), url('../images/Square-5.png'), url('../images/square-3.png'), linear-gradient(180deg, #fff 40%, transparent);
+  background-image: url('squre-8.png'), url('43243.png'), url('Square-5.png'), url('square-3.png'), -webkit-gradient(linear, left top, left bottom, color-stop(40%, #fff), to(transparent));
+  background-image: url('squre-8.png'), url('43243.png'), url('Square-5.png'), url('square-3.png'), linear-gradient(180deg, #fff 40%, transparent);
   background-position: 77px 9%, 82% 100%, 92% 90px, 51px 102%, 0px 0px;
   background-size: 8%, 140px, 4%, 8%, auto;
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, repeat;
@@ -3367,7 +3367,7 @@ blockquote {
   margin-left: auto;
   float: none;
   border-radius: 10px;
-  background-image: url('../images/cup.png');
+  background-image: url('cup.png');
   background-position: 50% 50%;
   background-size: 50px;
   background-repeat: no-repeat;
@@ -3380,7 +3380,7 @@ blockquote {
   height: 60px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/333.png');
+  background-image: url('333.png');
   background-position: 50% 50%;
   background-size: 50px;
   background-repeat: no-repeat;
@@ -3392,7 +3392,7 @@ blockquote {
   height: 60px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/111.png');
+  background-image: url('111.png');
   background-position: 50% 50%;
   background-size: 50px;
   background-repeat: no-repeat;
@@ -3404,7 +3404,7 @@ blockquote {
   height: 60px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/222.png');
+  background-image: url('222.png');
   background-position: 50% 50%;
   background-size: 50px;
   background-repeat: no-repeat;
@@ -3474,7 +3474,7 @@ blockquote {
   margin-left: 2px;
   float: left;
   border-radius: 100px;
-  background-image: url('../images/team-3.jpg');
+  background-image: url('team-3.jpg');
   background-position: 0px 0px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3487,30 +3487,30 @@ blockquote {
   height: 50px;
   float: none;
   border-radius: 10px;
-  background-image: url('../images/5b71ed1021c8aa33954afd93_matheus-ferrero-216385-1.jpg');
+  background-image: url('5b71ed1021c8aa33954afd93_matheus-ferrero-216385-1.jpg');
   background-position: 50% 50%;
 }
 
 .testimonial-photo.small.second {
-  background-image: url('../images/team3.jpg');
+  background-image: url('team3.jpg');
   background-position: 50% 50%;
 }
 
 .testimonial-photo.small.third {
-  background-image: url('../images/team-5.jpg');
+  background-image: url('team-5.jpg');
 }
 
 .testimonial-photo.small.sixth {
-  background-image: url('../images/team-6.jpg');
+  background-image: url('team-6.jpg');
   background-position: 50% 50%;
 }
 
 .testimonial-photo.small.fifth {
-  background-image: url('../images/team1.jpg');
+  background-image: url('team1.jpg');
 }
 
 .testimonial-photo.small.fourth {
-  background-image: url('../images/team-2.jpg');
+  background-image: url('team-2.jpg');
 }
 
 .testimonial-photo.in-tab {
@@ -3520,23 +3520,23 @@ blockquote {
 }
 
 .testimonial-photo.in-tab.fifth {
-  background-image: url('../images/team-6.jpg');
+  background-image: url('team-6.jpg');
 }
 
 .testimonial-photo.in-tab.first {
-  background-image: url('../images/team1.jpg');
+  background-image: url('team1.jpg');
 }
 
 .testimonial-photo.in-tab.second {
-  background-image: url('../images/team-2.jpg');
+  background-image: url('team-2.jpg');
 }
 
 .testimonial-photo.in-tab.third {
-  background-image: url('../images/team3.jpg');
+  background-image: url('team3.jpg');
 }
 
 .testimonial-photo.in-tab.fourth {
-  background-image: url('../images/team-5.jpg');
+  background-image: url('team-5.jpg');
 }
 
 .flex-row {
@@ -3675,7 +3675,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 0px;
   background-color: transparent;
-  background-image: url('../images/instagram-1.png');
+  background-image: url('instagram-1.png');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3692,7 +3692,7 @@ blockquote {
 
 .social-icon-4.icon-linkedin.white {
   border-color: #7c8499;
-  background-image: url('../images/duotone---2020-04-21T173148.777.png');
+  background-image: url('duotone---2020-04-21T173148.777.png');
   background-size: 13px;
 }
 
@@ -3723,7 +3723,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 0px 5px 5px 0px;
   background-color: transparent;
-  background-image: url('../images/twitter-logo-silhouette-2.png');
+  background-image: url('twitter-logo-silhouette-2.png');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3740,7 +3740,7 @@ blockquote {
 
 .social-icon-4.icon-twitter.go-top {
   border-radius: 5px;
-  background-image: url('../images/icons8-up-96_1icons8-up-96.png');
+  background-image: url('icons8-up-96_1icons8-up-96.png');
   background-size: 16px;
 }
 
@@ -3751,7 +3751,7 @@ blockquote {
 .social-icon-4.icon-twitter.go-top.white {
   border-color: #7c8499;
   border-radius: 5px;
-  background-image: url('../images/icons8-up-96-1_1icons8-up-96 (1).png');
+  background-image: url('icons8-up-96-1_1icons8-up-96 (1).png');
   background-size: 13px;
 }
 
@@ -3764,7 +3764,7 @@ blockquote {
   border-bottom-style: solid;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
-  background-image: url('../images/icons8-facebook-f-96_1icons8-facebook-f-96.png');
+  background-image: url('icons8-facebook-f-96_1icons8-facebook-f-96.png');
   background-size: 13px;
 }
 
@@ -3795,7 +3795,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 0px;
   background-color: transparent;
-  background-image: url('../images/icon-5.png');
+  background-image: url('icon-5.png');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3812,7 +3812,7 @@ blockquote {
 
 .social-icon-4.icon-googleplus.white {
   border-color: #7c8499;
-  background-image: url('../images/google-plus_1google-plus.png');
+  background-image: url('google-plus_1google-plus.png');
   background-size: 13px;
 }
 
@@ -3843,7 +3843,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 5px 0px 0px 5px;
   background-color: transparent;
-  background-image: url('../images/facebook-logo-Black.svg');
+  background-image: url('facebook-logo-Black.svg');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3862,7 +3862,7 @@ blockquote {
   border-color: #7c8499;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  background-image: url('../images/duotone---2020-04-21T173139.767.png');
+  background-image: url('duotone---2020-04-21T173139.767.png');
   background-size: 13px;
   color: #c4c7c8;
 }
@@ -3894,7 +3894,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 5px 0px 0px 5px;
   background-color: #fff;
-  background-image: url('../images/facebook-logo-Black.svg');
+  background-image: url('facebook-logo-Black.svg');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3921,7 +3921,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 0px;
   background-color: #fff;
-  background-image: url('../images/instagram-1.png');
+  background-image: url('instagram-1.png');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3946,7 +3946,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 0px;
   background-color: #fff;
-  background-image: url('../images/icon-5.png');
+  background-image: url('icon-5.png');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -3971,7 +3971,7 @@ blockquote {
   border: 1px solid #e4e4e4;
   border-radius: 0px 5px 5px 0px;
   background-color: #fff;
-  background-image: url('../images/twitter-logo-silhouette-2.png');
+  background-image: url('twitter-logo-silhouette-2.png');
   background-position: 50% 50%;
   background-size: 13px;
   background-repeat: no-repeat;
@@ -4149,13 +4149,13 @@ blockquote {
   display: inline-block;
   width: 100%;
   height: 350px;
-  background-image: url('../images/johan-mouchet-196729-unsplash.jpg');
+  background-image: url('johan-mouchet-196729-unsplash.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .portfolio-image-div._3 {
-  background-image: url('../images/kevin-bhagat-343433-unsplash.jpg');
+  background-image: url('kevin-bhagat-343433-unsplash.jpg');
 }
 
 .overlay-portfolio {
@@ -4246,7 +4246,7 @@ blockquote {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #fc6f00;
-  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.9) 28%, rgba(255, 6, 156, 0.9)), url('../images/square-9.png'), url('../images/square-2.png');
+  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.9) 28%, rgba(255, 6, 156, 0.9)), url('square-9.png'), url('square-2.png');
   background-position: 0px 0px, 0px 0px, 100% 100%;
   background-size: auto, 250px, 100px;
   background-repeat: repeat, no-repeat, no-repeat;
@@ -4474,7 +4474,7 @@ blockquote {
 
 .banner {
   height: 800px;
-  background-image: url('../images/1234.png'), none;
+  background-image: url('1234.png'), none;
   background-position: 100% 50%, 50% 50%;
   background-size: cover, cover;
 }
@@ -4482,8 +4482,8 @@ blockquote {
 .banner.fourth {
   height: 100vh;
   border-bottom: 1px none #fc6f00;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.78)), to(#f4f5f9)), url('../images/nesa-by-makers-736784-unsplash.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.78), #f4f5f9), url('../images/nesa-by-makers-736784-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.78)), to(#f4f5f9)), url('nesa-by-makers-736784-unsplash.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.78), #f4f5f9), url('nesa-by-makers-736784-unsplash.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;
@@ -4668,7 +4668,7 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 0px;
-  background-image: url('../images/nordwood-themes-483520-1.jpg');
+  background-image: url('nordwood-themes-483520-1.jpg');
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -5036,7 +5036,7 @@ blockquote {
   border: 1px solid #e4ecf6;
   border-radius: 5px;
   background-color: rgba(244, 245, 249, 0.5);
-  background-image: url('../images/icons8-contacts-64_1icons8-contacts-64.png');
+  background-image: url('icons8-contacts-64_1icons8-contacts-64.png');
   background-position: 7px 48%;
   background-size: 20px;
   background-repeat: no-repeat;
@@ -5046,7 +5046,7 @@ blockquote {
 
 .text-field-3.contact-form.gray.email {
   padding-left: 40px;
-  background-image: url('../images/icons8-secured-letter-64_1icons8-secured-letter-64.png');
+  background-image: url('icons8-secured-letter-64_1icons8-secured-letter-64.png');
   background-size: 20px;
 }
 
@@ -5064,17 +5064,17 @@ blockquote {
 }
 
 .text-field-3.contact-form.gray.budget {
-  background-image: url('../images/icons8-coins-80_1icons8-coins-80.png');
+  background-image: url('icons8-coins-80_1icons8-coins-80.png');
   background-size: 20px;
 }
 
 .text-field-3.contact-form.gray.subject {
-  background-image: url('../images/icons8-box-64_1icons8-box-64.png');
+  background-image: url('icons8-box-64_1icons8-box-64.png');
   background-size: 20px;
 }
 
 .text-field-3.contact-form.gray.timeline {
-  background-image: url('../images/icons8-time-80_1icons8-time-80.png');
+  background-image: url('icons8-time-80_1icons8-time-80.png');
   background-size: 20px;
 }
 
@@ -5177,7 +5177,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.92)), url('../images/bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
+  background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.92)), url('bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
   background-position: 0px 0px, 50% 50%, 0px 0px;
   background-size: auto, cover, auto;
 }
@@ -5185,7 +5185,7 @@ blockquote {
 .banner-home.half.second {
   height: 100vh;
   background-color: #f4f5f9;
-  background-image: url('../images/43243.png');
+  background-image: url('43243.png');
   background-position: 90% 27%;
   background-size: 140px;
   background-repeat: no-repeat;
@@ -5439,8 +5439,8 @@ blockquote {
 .about-section {
   padding-top: 180px;
   padding-bottom: 90px;
-  background-image: url('../images/43243.png'), url('../images/3535415.png'), -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.81)), to(hsla(0, 0%, 100%, 0.81))), url('../images/silvio-kundt-65518-unsplash.jpg');
-  background-image: url('../images/43243.png'), url('../images/3535415.png'), linear-gradient(180deg, hsla(0, 0%, 100%, 0.81), hsla(0, 0%, 100%, 0.81)), url('../images/silvio-kundt-65518-unsplash.jpg');
+  background-image: url('43243.png'), url('3535415.png'), -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.81)), to(hsla(0, 0%, 100%, 0.81))), url('silvio-kundt-65518-unsplash.jpg');
+  background-image: url('43243.png'), url('3535415.png'), linear-gradient(180deg, hsla(0, 0%, 100%, 0.81), hsla(0, 0%, 100%, 0.81)), url('silvio-kundt-65518-unsplash.jpg');
   background-position: 100% 102%, 0px 101%, 0px 0px, 50% 50%;
   background-size: 200px, 200px, auto, cover;
   background-repeat: no-repeat, no-repeat, repeat, repeat;
@@ -5448,8 +5448,8 @@ blockquote {
 }
 
 .about-section.first {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.81)), to(hsla(0, 0%, 100%, 0.81))), url('../images/silvio-kundt-65518-unsplash.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.81), hsla(0, 0%, 100%, 0.81)), url('../images/silvio-kundt-65518-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.81)), to(hsla(0, 0%, 100%, 0.81))), url('silvio-kundt-65518-unsplash.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.81), hsla(0, 0%, 100%, 0.81)), url('silvio-kundt-65518-unsplash.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;
@@ -5457,8 +5457,8 @@ blockquote {
 }
 
 .about-section.first.white-overlay {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 94.5%, 0.81)), to(#fff)), url('../images/silvio-kundt-65518-unsplash.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 94.5%, 0.81), #fff), url('../images/silvio-kundt-65518-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 94.5%, 0.81)), to(#fff)), url('silvio-kundt-65518-unsplash.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 94.5%, 0.81), #fff), url('silvio-kundt-65518-unsplash.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;
@@ -5466,8 +5466,8 @@ blockquote {
 }
 
 .about-section.service {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.25)), to(#f4f5f9)), -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.81)), to(hsla(0, 0%, 100%, 0.81))), url('../images/silvio-kundt-65518-unsplash.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.25), #f4f5f9), linear-gradient(180deg, hsla(0, 0%, 100%, 0.81), hsla(0, 0%, 100%, 0.81)), url('../images/silvio-kundt-65518-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.25)), to(#f4f5f9)), -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.81)), to(hsla(0, 0%, 100%, 0.81))), url('silvio-kundt-65518-unsplash.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.25), #f4f5f9), linear-gradient(180deg, hsla(0, 0%, 100%, 0.81), hsla(0, 0%, 100%, 0.81)), url('silvio-kundt-65518-unsplash.jpg');
   background-position: 0px 0px, 0px 0px, 50% 50%;
   background-size: auto, auto, cover;
   background-repeat: repeat, repeat, repeat;
@@ -5475,8 +5475,8 @@ blockquote {
 }
 
 .about-section.blog {
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(11%, hsla(0, 0%, 100%, 0)), color-stop(88%, #f4f5f9)), -webkit-gradient(linear, left top, left bottom, from(rgba(244, 245, 249, 0.77)), to(rgba(244, 245, 249, 0.77))), url('../images/bady-qb-751620-unsplash-1.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0) 11%, #f4f5f9 88%), linear-gradient(180deg, rgba(244, 245, 249, 0.77), rgba(244, 245, 249, 0.77)), url('../images/bady-qb-751620-unsplash-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(11%, hsla(0, 0%, 100%, 0)), color-stop(88%, #f4f5f9)), -webkit-gradient(linear, left top, left bottom, from(rgba(244, 245, 249, 0.77)), to(rgba(244, 245, 249, 0.77))), url('bady-qb-751620-unsplash-1.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0) 11%, #f4f5f9 88%), linear-gradient(180deg, rgba(244, 245, 249, 0.77), rgba(244, 245, 249, 0.77)), url('bady-qb-751620-unsplash-1.jpg');
   background-position: 0px 0px, 0px 0px, 50% 0px;
   background-size: auto, auto, cover;
   background-repeat: repeat, repeat, no-repeat;
@@ -5484,8 +5484,8 @@ blockquote {
 }
 
 .about-section.blog.white-overlay {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0)), to(#fff)), -webkit-gradient(linear, left top, left bottom, from(rgba(244, 245, 249, 0.77)), to(rgba(244, 245, 249, 0.77))), url('../images/bady-qb-751620-unsplash-1.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0), #fff), linear-gradient(180deg, rgba(244, 245, 249, 0.77), rgba(244, 245, 249, 0.77)), url('../images/bady-qb-751620-unsplash-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0)), to(#fff)), -webkit-gradient(linear, left top, left bottom, from(rgba(244, 245, 249, 0.77)), to(rgba(244, 245, 249, 0.77))), url('bady-qb-751620-unsplash-1.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0), #fff), linear-gradient(180deg, rgba(244, 245, 249, 0.77), rgba(244, 245, 249, 0.77)), url('bady-qb-751620-unsplash-1.jpg');
   background-position: 0px 0px, 0px 0px, 50% 0px;
   background-size: auto, auto, cover;
   background-repeat: repeat, repeat, no-repeat;
@@ -5494,8 +5494,8 @@ blockquote {
 
 .about-section.blog.white-overlay.contact {
   padding-bottom: 0px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0)), color-stop(71%, #fff)), -webkit-gradient(linear, left top, left bottom, from(rgba(244, 245, 249, 0.77)), to(rgba(244, 245, 249, 0.77))), url('../images/bady-qb-751620-unsplash-1.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0), #fff 71%), linear-gradient(180deg, rgba(244, 245, 249, 0.77), rgba(244, 245, 249, 0.77)), url('../images/bady-qb-751620-unsplash-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0)), color-stop(71%, #fff)), -webkit-gradient(linear, left top, left bottom, from(rgba(244, 245, 249, 0.77)), to(rgba(244, 245, 249, 0.77))), url('bady-qb-751620-unsplash-1.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0), #fff 71%), linear-gradient(180deg, rgba(244, 245, 249, 0.77), rgba(244, 245, 249, 0.77)), url('bady-qb-751620-unsplash-1.jpg');
   background-position: 0px 0px, 0px 0px, 50% 0px;
   background-size: auto, auto, cover;
   background-repeat: repeat, repeat, no-repeat;
@@ -5623,8 +5623,8 @@ blockquote {
 }
 
 .banner-hero.fifth {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(235, 236, 241, 0.75)), to(#f4f5f9)), url('../images/3535415.png'), url('../images/43243.png');
-  background-image: linear-gradient(180deg, rgba(235, 236, 241, 0.75), #f4f5f9), url('../images/3535415.png'), url('../images/43243.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(235, 236, 241, 0.75)), to(#f4f5f9)), url('3535415.png'), url('43243.png');
+  background-image: linear-gradient(180deg, rgba(235, 236, 241, 0.75), #f4f5f9), url('3535415.png'), url('43243.png');
   background-position: 0px 0px, 100% 101%, 0px 101%;
   background-size: auto, 200px, 200px;
   background-repeat: repeat, no-repeat, no-repeat;
@@ -5646,8 +5646,8 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   background-color: transparent;
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(63%, rgba(11, 60, 126, 0.97)), color-stop(81%, rgba(11, 60, 126, 0.66)), to(rgba(21, 86, 187, 0.29))), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
-  background-image: linear-gradient(90deg, rgba(11, 60, 126, 0.97) 63%, rgba(11, 60, 126, 0.66) 81%, rgba(21, 86, 187, 0.29)), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(63%, rgba(11, 60, 126, 0.97)), color-stop(81%, rgba(11, 60, 126, 0.66)), to(rgba(21, 86, 187, 0.29))), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+  background-image: linear-gradient(90deg, rgba(11, 60, 126, 0.97) 63%, rgba(11, 60, 126, 0.66) 81%, rgba(21, 86, 187, 0.29)), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
   background-position: 0px 0px, 100% 0%;
   background-size: auto, contain;
   background-repeat: repeat, repeat;
@@ -5831,15 +5831,15 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 93.3%, 0.85)), to(hsla(0, 0%, 100%, 0.99))), url('../images/bady-qb-751620-unsplash-1.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 93.3%, 0.85), hsla(0, 0%, 100%, 0.99)), url('../images/bady-qb-751620-unsplash-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 93.3%, 0.85)), to(hsla(0, 0%, 100%, 0.99))), url('bady-qb-751620-unsplash-1.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 93.3%, 0.85), hsla(0, 0%, 100%, 0.99)), url('bady-qb-751620-unsplash-1.jpg');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
 
 .utility-page-wrap._404 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.9)), to(hsla(0, 0%, 100%, 0.9))), url('../images/rawpixel-594849-unsplash.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.9), hsla(0, 0%, 100%, 0.9)), url('../images/rawpixel-594849-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.9)), to(hsla(0, 0%, 100%, 0.9))), url('rawpixel-594849-unsplash.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.9), hsla(0, 0%, 100%, 0.9)), url('rawpixel-594849-unsplash.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -5910,7 +5910,7 @@ blockquote {
   margin-bottom: 40px;
   margin-left: auto;
   border-radius: 5px;
-  background-image: url('../images/43243.png'), linear-gradient(135deg, rgba(252, 111, 0, 0.91) 34%, rgba(255, 6, 156, 0.9)), url('../images/21232144.jpg');
+  background-image: url('43243.png'), linear-gradient(135deg, rgba(252, 111, 0, 0.91) 34%, rgba(255, 6, 156, 0.9)), url('21232144.jpg');
   background-position: 100% 102%, 0px 0px, 50% 50%;
   background-size: 70px, auto, cover;
   background-repeat: no-repeat, repeat, repeat;
@@ -6000,7 +6000,7 @@ blockquote {
   padding-top: 30px;
   padding-right: 35%;
   padding-bottom: 30px;
-  background-image: url('../images/111.png');
+  background-image: url('111.png');
   background-position: 98% 108%;
   background-size: 140px;
   background-repeat: no-repeat;
@@ -6008,20 +6008,20 @@ blockquote {
 
 .features-block.build.top.second {
   padding-left: 30px;
-  background-image: url('../images/222.png');
+  background-image: url('222.png');
   background-size: 140px;
 }
 
 .features-block.build.top.third {
   padding-left: 30px;
-  background-image: url('../images/333.png');
+  background-image: url('333.png');
   background-position: 100% 100%;
   background-size: 140px;
 }
 
 .features-block.build.top.fourth {
   padding-left: 30px;
-  background-image: url('../images/444.png');
+  background-image: url('444.png');
   background-position: 99% -187%;
   background-size: 140px;
 }
@@ -6056,14 +6056,14 @@ blockquote {
   margin-left: auto;
   border-radius: 4px;
   background-color: transparent;
-  background-image: url('../images/icons8-idea-240.png'), linear-gradient(135deg, #fc6f00 27%, #da0000);
+  background-image: url('icons8-idea-240.png'), linear-gradient(135deg, #fc6f00 27%, #da0000);
   background-position: 50% 50%, 0px 0px;
   background-size: 38px, auto;
   background-repeat: no-repeat, repeat;
 }
 
 .features-icon-4.second {
-  background-image: url('../images/icons8-code-80_1icons8-code-80.png'), linear-gradient(135deg, #fc6f00 27%, #da0000);
+  background-image: url('icons8-code-80_1icons8-code-80.png'), linear-gradient(135deg, #fc6f00 27%, #da0000);
   background-size: 40px, auto;
 }
 
@@ -6073,7 +6073,7 @@ blockquote {
   margin-left: 0px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url('../images/icons8-code-80_1icons8-code-80.png'), linear-gradient(135deg, #0675ec, #8c0fff);
+  background-image: url('icons8-code-80_1icons8-code-80.png'), linear-gradient(135deg, #0675ec, #8c0fff);
   background-position: 50% 50%, 0px 0px;
   background-size: 40px, auto;
   background-repeat: no-repeat, repeat;
@@ -6082,7 +6082,7 @@ blockquote {
 
 .features-icon-4.second.left.tab {
   margin-bottom: 0px;
-  background-image: url('../images/icons8-support-512-1.png');
+  background-image: url('icons8-support-512-1.png');
   background-position: 50% 50%;
   background-size: 32px;
   background-repeat: no-repeat;
@@ -6094,7 +6094,7 @@ blockquote {
   display: block;
   margin-bottom: 0px;
   border-radius: 10px;
-  background-image: url('../images/icons8-code-80_1icons8-code-80.png'), linear-gradient(135deg, #ff0fd9 27%, #6000da);
+  background-image: url('icons8-code-80_1icons8-code-80.png'), linear-gradient(135deg, #ff0fd9 27%, #6000da);
   background-position: 50% 50%, 0px 0px;
   background-size: 40px, auto;
   background-repeat: no-repeat, repeat;
@@ -6105,7 +6105,7 @@ blockquote {
   top: -30px;
   margin-bottom: 0px;
   border-radius: 10px;
-  background-image: url('../images/icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #ffaf06 27%, #fc6f00);
+  background-image: url('icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #ffaf06 27%, #fc6f00);
   background-size: 32px, auto;
 }
 
@@ -6115,21 +6115,21 @@ blockquote {
   margin-bottom: 20px;
   margin-left: 0px;
   border-radius: 10px;
-  background-image: url('../images/icons8-idea-240.png'), linear-gradient(135deg, #ffaf06 27%, #fc6f00);
+  background-image: url('icons8-idea-240.png'), linear-gradient(135deg, #ffaf06 27%, #fc6f00);
   background-position: 50% 50%, 0px 0px;
   background-size: 38px, auto;
   background-repeat: no-repeat, repeat;
 }
 
 .features-icon-4.third.email {
-  background-image: url('../images/icons8-design-80-1_1icons8-design-80 (1).png'), linear-gradient(135deg, #ffaf06 27%, #fc6f00);
+  background-image: url('icons8-design-80-1_1icons8-design-80 (1).png'), linear-gradient(135deg, #ffaf06 27%, #fc6f00);
   background-size: 40px, auto;
 }
 
 .features-icon-4.left {
   margin-right: 0px;
   margin-left: 0px;
-  background-image: url('../images/icons8-idea-240.png'), linear-gradient(135deg, #0f9fff 27%, #063dec);
+  background-image: url('icons8-idea-240.png'), linear-gradient(135deg, #0f9fff 27%, #063dec);
   background-position: 50% 50%, 0px 0px;
   background-size: 38px, auto;
   background-repeat: no-repeat, repeat;
@@ -6140,7 +6140,7 @@ blockquote {
   margin-bottom: 20px;
   margin-left: 0px;
   border-radius: 10px;
-  background-image: url('../images/icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #08daf6 20%, #0a8dc0);
+  background-image: url('icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #08daf6 20%, #0a8dc0);
   background-size: 32px, auto;
 }
 
@@ -6150,7 +6150,7 @@ blockquote {
   margin-left: 0px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url('../images/icons8-design-64_1icons8-design-64.png');
+  background-image: url('icons8-design-64_1icons8-design-64.png');
   background-position: 50% 50%;
   background-size: 32px;
   background-repeat: no-repeat;
@@ -6162,7 +6162,7 @@ blockquote {
   top: -30px;
   margin-bottom: 0px;
   border-radius: 10px;
-  background-image: url('../images/icons8-mobile-80-1_1icons8-mobile-80 (1).png'), linear-gradient(135deg, #fc6500 27%, #ac0707);
+  background-image: url('icons8-mobile-80-1_1icons8-mobile-80 (1).png'), linear-gradient(135deg, #fc6500 27%, #ac0707);
   background-size: 40px, auto;
 }
 
@@ -6173,7 +6173,7 @@ blockquote {
   display: block;
   margin-bottom: 20px;
   border-radius: 10px;
-  background-image: url('../images/icons8-mobile-80-1_1icons8-mobile-80 (1).png'), linear-gradient(135deg, #fc6f00 27%, #ac0707);
+  background-image: url('icons8-mobile-80-1_1icons8-mobile-80 (1).png'), linear-gradient(135deg, #fc6f00 27%, #ac0707);
   background-position: 50% 50%, 0px 0px;
   background-size: 40px, auto;
   background-repeat: no-repeat, repeat;
@@ -6182,7 +6182,7 @@ blockquote {
 .features-icon-4.first.left.tab {
   margin-bottom: 0px;
   background-color: #fff;
-  background-image: url('../images/icons8-touchscreen-80-1_1icons8-touchscreen-80 (1).png');
+  background-image: url('icons8-touchscreen-80-1_1icons8-touchscreen-80 (1).png');
   background-position: 50% 50%;
   background-size: 40px;
   background-repeat: no-repeat;
@@ -6193,7 +6193,7 @@ blockquote {
   position: relative;
   top: -30px;
   margin-bottom: 0px;
-  background-image: url('../images/icons8-idea-240.png'), linear-gradient(135deg, #fc6f00 27%, #da0000);
+  background-image: url('icons8-idea-240.png'), linear-gradient(135deg, #fc6f00 27%, #da0000);
   background-size: 32px, auto;
 }
 
@@ -6201,7 +6201,7 @@ blockquote {
   position: relative;
   top: -30px;
   margin-bottom: 10px;
-  background-image: url('../images/icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #2985fa 27%, #0167d4);
+  background-image: url('icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #2985fa 27%, #0167d4);
   background-size: 32px, auto;
 }
 
@@ -6210,7 +6210,7 @@ blockquote {
   top: -30px;
   margin-bottom: 0px;
   border-radius: 10px;
-  background-image: url('../images/icons8-idea-240.png'), linear-gradient(135deg, #8050fc 27%, #1f00ff);
+  background-image: url('icons8-idea-240.png'), linear-gradient(135deg, #8050fc 27%, #1f00ff);
   background-position: 50% 50%, 0px 0px;
   background-size: 38px, auto;
   background-repeat: no-repeat, repeat;
@@ -6220,14 +6220,14 @@ blockquote {
   position: static;
   margin-bottom: 20px;
   border-radius: 10px;
-  background-image: url('../images/icons8-design-80-1_1icons8-design-80 (1).png'), linear-gradient(135deg, #8050fc 27%, #1f00ff);
+  background-image: url('icons8-design-80-1_1icons8-design-80 (1).png'), linear-gradient(135deg, #8050fc 27%, #1f00ff);
   background-position: 50% 50%, 0px 0px;
   background-size: 38px, auto;
   background-repeat: no-repeat, repeat;
 }
 
 .features-icon-4.fifth.support {
-  background-image: url('../images/icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #8050fc 27%, #1f00ff);
+  background-image: url('icons8-technical-support-64_1icons8-technical-support-64.png'), linear-gradient(135deg, #8050fc 27%, #1f00ff);
   background-size: 32px, auto;
 }
 
@@ -6257,7 +6257,7 @@ blockquote {
   border-color: rgba(228, 236, 246, 0.57);
   border-radius: 5px;
   background-color: rgba(244, 245, 249, 0.5);
-  background-image: url('../images/icons8-edit-80_1icons8-edit-80.png');
+  background-image: url('icons8-edit-80_1icons8-edit-80.png');
   background-position: 8px 8px;
   background-size: 23px;
   background-repeat: no-repeat;
@@ -6524,7 +6524,7 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 4px;
-  background-image: url('../images/icons8-lock-96_1icons8-lock-96.png'), linear-gradient(135deg, #fc6f00, #ff069c);
+  background-image: url('icons8-lock-96_1icons8-lock-96.png'), linear-gradient(135deg, #fc6f00, #ff069c);
   background-position: 50% 50%, 0px 0px;
   background-size: 30px, auto;
   background-repeat: no-repeat, repeat;
@@ -6726,21 +6726,21 @@ blockquote {
 .image-div {
   width: 100px;
   height: 100px;
-  background-image: url('../images/shutterstock_178724276.jpg');
+  background-image: url('shutterstock_178724276.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .image-div.two {
-  background-image: url('../images/123134.jpg');
+  background-image: url('123134.jpg');
 }
 
 .image-div.third {
-  background-image: url('../images/12313ee4.jpg');
+  background-image: url('12313ee4.jpg');
 }
 
 .image-div.mock-ups {
-  background-image: url('../images/Video-white.png'), linear-gradient(135deg, #fc6f00, #ff069c);
+  background-image: url('Video-white.png'), linear-gradient(135deg, #fc6f00, #ff069c);
   background-position: 50% 50%, 0px 0px;
   background-size: 80px, auto;
   background-repeat: no-repeat, repeat;
@@ -6750,7 +6750,7 @@ blockquote {
   width: 60px;
   height: 60px;
   margin-right: 20px;
-  background-image: url('../images/Dalai-1.jpg');
+  background-image: url('Dalai-1.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7121,7 +7121,7 @@ blockquote {
   border-top: 1px none #e4e4e4;
   border-bottom: 1px none #e4e4e4;
   background-color: #f4f5f9;
-  background-image: url('../images/square-9.png');
+  background-image: url('square-9.png');
   background-position: 199px 0px;
   background-size: 10%;
   background-repeat: no-repeat;
@@ -7272,7 +7272,7 @@ blockquote {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 5px;
-  background-image: url('../images/lilly-rum-314276-unsplash.jpg');
+  background-image: url('lilly-rum-314276-unsplash.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -7431,8 +7431,8 @@ blockquote {
   z-index: 5;
   height: 380px;
   border-radius: 10px;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('../images/5b71ed1021c8aa33954afd93_matheus-ferrero-216385-1.jpg');
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('../images/5b71ed1021c8aa33954afd93_matheus-ferrero-216385-1.jpg');
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('5b71ed1021c8aa33954afd93_matheus-ferrero-216385-1.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('5b71ed1021c8aa33954afd93_matheus-ferrero-216385-1.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   -webkit-transform: translate(0px, -65px);
@@ -7445,18 +7445,18 @@ blockquote {
 }
 
 .team-new-image.second {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('../images/lucas-sankey-378674.jpg');
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('../images/lucas-sankey-378674.jpg');
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('lucas-sankey-378674.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('lucas-sankey-378674.jpg');
 }
 
 .team-new-image.third {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('../images/erik-lucatero-310633.jpg');
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('../images/erik-lucatero-310633.jpg');
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('erik-lucatero-310633.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('erik-lucatero-310633.jpg');
 }
 
 .team-new-image.fourth {
-  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('../images/team-6.jpg');
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('../images/team-6.jpg');
+  background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.63)), to(transparent)), url('team-6.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.63), transparent), url('team-6.jpg');
 }
 
 .team-new-wrapper {
@@ -7576,34 +7576,34 @@ blockquote {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 40px;
-  background-image: url('../images/icons8-tick-box-416.png');
+  background-image: url('icons8-tick-box-416.png');
   background-position: 0px 50%;
   background-size: 24px;
   background-repeat: no-repeat;
 }
 
 .check-item.third {
-  background-image: url('../images/icons8-tick-box-416-6.png');
+  background-image: url('icons8-tick-box-416-6.png');
   background-size: 24px;
 }
 
 .check-item.second {
-  background-image: url('../images/icons8-tick-box-416-3.png');
+  background-image: url('icons8-tick-box-416-3.png');
   background-size: 24px;
 }
 
 .check-item.fourth {
-  background-image: url('../images/icons8-tick-box-416-1.png');
+  background-image: url('icons8-tick-box-416-1.png');
   background-size: 24px;
 }
 
 .check-item.fifth {
-  background-image: url('../images/icons8-tick-box-416-5.png');
+  background-image: url('icons8-tick-box-416-5.png');
   background-size: 24px;
 }
 
 .check-item.sixth {
-  background-image: url('../images/icons8-tick-box-416-4.png');
+  background-image: url('icons8-tick-box-416-4.png');
   background-size: 24px;
 }
 
@@ -7634,7 +7634,7 @@ blockquote {
   padding: 0px 0px 20px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url('../images/icons8-quote-left-100_1icons8-quote-left-100.png');
+  background-image: url('icons8-quote-left-100_1icons8-quote-left-100.png');
   background-position: 96% 97%;
   background-size: 50px;
   background-repeat: no-repeat;
@@ -7839,7 +7839,7 @@ blockquote {
   height: 600px;
   border-radius: 0px;
   background-color: #fff;
-  background-image: url('../images/Free-Mockup-Scene.png');
+  background-image: url('Free-Mockup-Scene.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -7849,7 +7849,7 @@ blockquote {
 
 .image-tab.first {
   height: 460px;
-  background-image: url('../images/Freesbee.png');
+  background-image: url('Freesbee.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -7857,7 +7857,7 @@ blockquote {
 
 .image-tab.first.in-section {
   height: 500px;
-  background-image: url('../images/Collazh.png');
+  background-image: url('Collazh.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -7966,7 +7966,7 @@ blockquote {
   border: 0px none #fff;
   border-radius: 100%;
   background-color: transparent;
-  background-image: url('../images/icons8-circled-play-filled-100_1icons8-circled-play-filled-100.png');
+  background-image: url('icons8-circled-play-filled-100_1icons8-circled-play-filled-100.png');
   background-position: 50% 50%;
   background-size: 70px;
   background-repeat: no-repeat;
@@ -7986,7 +7986,7 @@ blockquote {
   height: 82px;
   border-radius: 10140%;
   background-color: #fff;
-  background-image: url('../images/icons8-circled-play-filled-100_2icons8-circled-play-filled-100.png');
+  background-image: url('icons8-circled-play-filled-100_2icons8-circled-play-filled-100.png');
   background-size: 80px;
 }
 
@@ -8159,7 +8159,7 @@ blockquote {
   bottom: auto;
   z-index: 10;
   width: 100%;
-  background-image: url('../images/Iphone-short.png');
+  background-image: url('Iphone-short.png');
   background-position: 50% 50%;
   background-size: auto 600px;
   background-repeat: no-repeat;
@@ -8297,7 +8297,7 @@ blockquote {
   width: 60%;
   height: 600px;
   margin-bottom: 20px;
-  background-image: url('../images/Scene-1-2.png');
+  background-image: url('Scene-1-2.png');
   background-position: 50% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -8328,7 +8328,7 @@ blockquote {
   width: 100%;
   height: 100%;
   border-radius: 20px;
-  background-image: url('../images/Video.png'), url('../images/Subscribeww.png');
+  background-image: url('Video.png'), url('Subscribeww.png');
   background-position: 50% 50%, 0px 0px;
   background-size: cover, cover;
   background-repeat: no-repeat, repeat;
@@ -8342,7 +8342,7 @@ blockquote {
   border-color: rgba(124, 132, 153, 0.24);
   border-radius: 100%;
   background-color: #f4f5f9;
-  background-image: url('../images/icons8-play-filled-500-1.png');
+  background-image: url('icons8-play-filled-500-1.png');
   background-position: 50% 50%;
   background-size: 25px;
   background-repeat: no-repeat;
@@ -8352,7 +8352,7 @@ blockquote {
 
 .video-button:hover {
   background-color: rgba(203, 208, 223, 0.2);
-  background-image: url('../images/icons8-play-filled-500-1.png'), radial-gradient(circle farthest-corner at 50% 50%, #fff 39%, rgba(0, 0, 0, 0.1) 90%);
+  background-image: url('icons8-play-filled-500-1.png'), radial-gradient(circle farthest-corner at 50% 50%, #fff 39%, rgba(0, 0, 0, 0.1) 90%);
   background-position: 50% 50%, 0px 0px;
   background-size: 25px, auto;
   background-repeat: no-repeat, repeat;
@@ -8363,7 +8363,7 @@ blockquote {
   height: 45px;
   margin-right: 10px;
   margin-left: 10px;
-  background-image: url('../images/icons8-play-100_1icons8-play-100.png');
+  background-image: url('icons8-play-100_1icons8-play-100.png');
 }
 
 .video-button.smaller.revers {
@@ -8484,7 +8484,7 @@ blockquote {
   margin-left: 100px;
   border-radius: 10px;
   background-color: #f4f5f9;
-  background-image: url('../images/page-under-construction-5.png');
+  background-image: url('page-under-construction-5.png');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -8498,7 +8498,7 @@ blockquote {
   right: 0px;
   margin-right: 100px;
   margin-left: 0px;
-  background-image: url('../images/Scene-1-2.png'), url('../images/Subscribeww.png');
+  background-image: url('Scene-1-2.png'), url('Subscribeww.png');
   background-position: 50% 50%, 50% 50%;
   background-size: cover, cover;
   background-repeat: no-repeat, no-repeat;
@@ -8819,7 +8819,7 @@ blockquote {
   position: relative;
   width: 400px;
   height: 499px;
-  background-image: url('../images/florian-klauer-14840-unsplash.jpg');
+  background-image: url('florian-klauer-14840-unsplash.jpg');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -8835,7 +8835,7 @@ blockquote {
   padding: 21px;
   float: none;
   border-radius: 10px;
-  background-image: url('../images/21232144.jpg');
+  background-image: url('21232144.jpg');
   background-position: 50% 50%;
   background-size: 900px;
   text-align: center;
@@ -8886,14 +8886,14 @@ blockquote {
 
 .image-slide {
   border-radius: 10px;
-  background-image: url('../images/bench-accounting-49909-unsplash.jpg');
+  background-image: url('bench-accounting-49909-unsplash.jpg');
   background-position: 50% 97%;
   background-size: 700px;
 }
 
 .image-slide.second {
   border-radius: 10px;
-  background-image: url('../images/23234324.jpg');
+  background-image: url('23234324.jpg');
   background-size: cover;
 }
 
@@ -8990,24 +8990,24 @@ blockquote {
   height: 65px;
   margin-right: 13px;
   border-radius: 100%;
-  background-image: url('../images/team-2_2.jpg');
+  background-image: url('team-2_2.jpg');
   background-position: 50% 50%;
   background-size: 120px;
   background-repeat: no-repeat;
 }
 
 .testi-photo._3 {
-  background-image: url('../images/ceo.jpg');
+  background-image: url('ceo.jpg');
   background-size: cover;
 }
 
 .testi-photo._4 {
-  background-image: url('../images/ceo_1.jpg');
+  background-image: url('ceo_1.jpg');
   background-size: cover;
 }
 
 .testi-photo._5 {
-  background-image: url('../images/team-2_1.jpg');
+  background-image: url('team-2_1.jpg');
   background-size: cover;
 }
 
@@ -9303,8 +9303,8 @@ blockquote {
   padding-top: 80px;
   padding-bottom: 80px;
   background-color: #fff;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.65)), to(rgba(0, 0, 0, 0.65))), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.65)), to(rgba(0, 0, 0, 0.65))), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
@@ -9766,7 +9766,7 @@ blockquote {
     padding-left: 20px;
   }
   .section.with-gradient {
-    background-image: url('../images/square-9.png');
+    background-image: url('square-9.png');
     background-position: 100px 0px;
     background-size: 10%;
     background-repeat: no-repeat;
@@ -10085,7 +10085,7 @@ blockquote {
     display: block;
     height: auto;
     padding: 100px 20px;
-    background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.92)), url('../images/bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
+    background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.92)), url('bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
     background-position: 0px 0px, 0px 0px, 0px 0px;
     background-size: auto, cover, auto;
   }
@@ -10175,8 +10175,8 @@ blockquote {
     height: 900px;
     padding-right: 40px;
     padding-left: 40px;
-    background-image: -webkit-gradient(linear, left top, right top, color-stop(42%, rgba(11, 60, 126, 0.98)), color-stop(81%, rgba(11, 60, 126, 0.66)), to(rgba(21, 86, 187, 0.29))), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
-    background-image: linear-gradient(90deg, rgba(11, 60, 126, 0.98) 42%, rgba(11, 60, 126, 0.66) 81%, rgba(21, 86, 187, 0.29)), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(42%, rgba(11, 60, 126, 0.98)), color-stop(81%, rgba(11, 60, 126, 0.66)), to(rgba(21, 86, 187, 0.29))), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+    background-image: linear-gradient(90deg, rgba(11, 60, 126, 0.98) 42%, rgba(11, 60, 126, 0.66) 81%, rgba(21, 86, 187, 0.29)), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
     background-position: 0px 0px, 100% 50%;
     background-size: auto, contain;
     background-repeat: repeat, repeat;
@@ -11010,7 +11010,7 @@ blockquote {
   }
   .banner-section.intro {
     height: 100vh;
-    background-image: linear-gradient(315deg, rgba(242, 102, 24, 0.89), rgba(140, 15, 255, 0.94)), url('../images/bady-qb-751620-unsplash-1.jpg');
+    background-image: linear-gradient(315deg, rgba(242, 102, 24, 0.89), rgba(140, 15, 255, 0.94)), url('bady-qb-751620-unsplash-1.jpg');
     background-position: 0px 0px, 50% 361%;
     background-size: auto, cover;
     background-repeat: repeat, no-repeat;
@@ -11328,7 +11328,7 @@ blockquote {
   .banner-home.half {
     padding-top: 60px;
     padding-bottom: 60px;
-    background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.9)), url('../images/bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
+    background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.9)), url('bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
     background-position: 0px 0px, 0px 0px, 0px 0px;
     background-size: auto, 1000px, auto;
   }
@@ -11398,7 +11398,7 @@ blockquote {
   .banner-hero.sixth {
     height: auto;
     padding-bottom: 40px;
-    background-image: linear-gradient(45deg, rgba(11, 60, 126, 0.87) 42%, rgba(11, 60, 126, 0.58) 84%, rgba(21, 86, 187, 0.29) 92%), url('../images/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
+    background-image: linear-gradient(45deg, rgba(11, 60, 126, 0.87) 42%, rgba(11, 60, 126, 0.58) 84%, rgba(21, 86, 187, 0.29) 92%), url('alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg');
     background-position: 0px 0px, 100% 50%;
     background-size: auto, contain;
     background-repeat: repeat, repeat;
@@ -11987,7 +11987,7 @@ blockquote {
   }
   .banner-section.intro {
     height: 100vh;
-    background-image: linear-gradient(307deg, rgba(252, 111, 0, 0.9), rgba(140, 15, 255, 0.9)), url('../images/bady-qb-751620-unsplash-1.jpg');
+    background-image: linear-gradient(307deg, rgba(252, 111, 0, 0.9), rgba(140, 15, 255, 0.9)), url('bady-qb-751620-unsplash-1.jpg');
     background-position: 0px 0px, 50% 361%;
     background-size: auto, cover;
     background-repeat: repeat, no-repeat;
@@ -12426,7 +12426,7 @@ blockquote {
     -webkit-flex-direction: column-reverse;
     -ms-flex-direction: column-reverse;
     flex-direction: column-reverse;
-    background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.9)), url('../images/bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
+    background-image: linear-gradient(135deg, rgba(252, 111, 0, 0.95), rgba(255, 6, 156, 0.9)), url('bady-qb-751620-unsplash-1.jpg'), linear-gradient(135deg, #fc6f00, #ff069c);
     background-position: 0px 0px, 0px 0px, 0px 0px;
     background-size: auto, cover, auto;
   }
@@ -12465,8 +12465,8 @@ blockquote {
     margin-bottom: 20px;
   }
   .about-section {
-    background-image: url('../images/43243.png'), url('../images/3535415.png'), -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.77)), to(hsla(0, 0%, 100%, 0.77))), url('../images/christian-perner-91905-unsplash.jpg');
-    background-image: url('../images/43243.png'), url('../images/3535415.png'), linear-gradient(180deg, hsla(0, 0%, 100%, 0.77), hsla(0, 0%, 100%, 0.77)), url('../images/christian-perner-91905-unsplash.jpg');
+    background-image: url('43243.png'), url('3535415.png'), -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.77)), to(hsla(0, 0%, 100%, 0.77))), url('christian-perner-91905-unsplash.jpg');
+    background-image: url('43243.png'), url('3535415.png'), linear-gradient(180deg, hsla(0, 0%, 100%, 0.77), hsla(0, 0%, 100%, 0.77)), url('christian-perner-91905-unsplash.jpg');
     background-size: 100px, 100px, auto, cover;
   }
   .hero-tittle.categorie {
@@ -12580,29 +12580,29 @@ blockquote {
   }
   .features-block.build.top {
     padding-right: 30px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.79)), to(hsla(0, 0%, 100%, 0.79))), url('../images/111.png');
-    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.79), hsla(0, 0%, 100%, 0.79)), url('../images/111.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.79)), to(hsla(0, 0%, 100%, 0.79))), url('111.png');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.79), hsla(0, 0%, 100%, 0.79)), url('111.png');
     background-position: 0px 0px, 98% 108%;
     background-size: auto, 140px;
     background-repeat: repeat, no-repeat;
   }
   .features-block.build.top.second {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.8)), to(hsla(0, 0%, 100%, 0.8))), url('../images/222.png');
-    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0.8)), url('../images/222.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.8)), to(hsla(0, 0%, 100%, 0.8))), url('222.png');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0.8)), url('222.png');
     background-position: 0px 0px, 100% 100%;
     background-size: auto, 140px;
     background-repeat: repeat, no-repeat;
   }
   .features-block.build.top.third {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.8)), to(hsla(0, 0%, 100%, 0.8))), url('../images/333.png');
-    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0.8)), url('../images/333.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.8)), to(hsla(0, 0%, 100%, 0.8))), url('333.png');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0.8)), url('333.png');
     background-position: 0px 0px, 100% 100%;
     background-size: auto, 140px;
     background-repeat: repeat, no-repeat;
   }
   .features-block.build.top.fourth {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.8)), to(hsla(0, 0%, 100%, 0.8))), url('../images/444.png');
-    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0.8)), url('../images/444.png');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.8)), to(hsla(0, 0%, 100%, 0.8))), url('444.png');
+    background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0.8)), url('444.png');
     background-position: 0px 0px, 100% 245%;
     background-size: auto, 140px;
     background-repeat: repeat, no-repeat;

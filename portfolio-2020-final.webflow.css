@@ -1826,7 +1826,7 @@ p {
   font-size: 15px;
   line-height: 25px;
   font-weight: 400;
-  text-align: left;
+  text-align: center;
 }
 
 a {
@@ -2304,6 +2304,7 @@ blockquote {
 
 .section.white.no-padding.they-say {
   padding-top: 0px;
+  background-color: #f2f4f8;
   background-image: url('Square-5.png');
   background-position: 87% 25%;
   background-size: 4%;
@@ -2340,10 +2341,12 @@ blockquote {
 
 .section.white.pattern {
   padding: 150px 20px 0px;
+  background-color: #f2f4f8;
   background-image: url('Square-5.png');
   background-position: 94% 92px;
   background-size: 100px;
   background-repeat: no-repeat;
+  color: #fff;
 }
 
 .section.white.clients {
@@ -2503,24 +2506,28 @@ blockquote {
   padding-bottom: 60px;
 }
 
-.section.project-1 {
+.section.project2 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #0b3c7e;
   background-image: none;
 }
 
-.section.project-1.project-2 {
+.section.project2.project-2 {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-color: #fff;
+  background-color: #0b3c7e;
   background-image: none;
+}
+
+.section.project2.white {
+  background-color: #fff;
 }
 
 .section.tech-skills {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-color: #0b3c7e;
+  background-color: #fff;
   background-image: none;
 }
 
@@ -2572,6 +2579,7 @@ blockquote {
 .container.project-1-plm {
   padding-top: 150px;
   padding-bottom: 150px;
+  color: #eee;
 }
 
 .tab-pane-tab-1 {
@@ -2747,7 +2755,7 @@ blockquote {
 
 .section-header.exper.white {
   font-family: Nunito, sans-serif;
-  color: #ddd;
+  color: #000;
   font-weight: 300;
   text-align: center;
   text-decoration: none;
@@ -2818,15 +2826,15 @@ blockquote {
 
 .section-tittle {
   margin-top: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   padding-right: 0px;
   padding-left: 0px;
   background-color: transparent;
-  font-family: Poppins, sans-serif;
+  font-family: Nunito, sans-serif;
   color: #000;
   font-size: 35px;
   line-height: 45px;
-  font-weight: 500;
+  font-weight: 400;
   text-align: left;
 }
 
@@ -2866,7 +2874,7 @@ blockquote {
 .section-tittle.center-algiment {
   margin-bottom: 20px;
   font-family: Nunito, sans-serif;
-  color: #eee;
+  color: #000;
   font-weight: 400;
   text-align: center;
 }
@@ -2877,13 +2885,18 @@ blockquote {
 
 .section-tittle.center-algiment.white {
   margin-bottom: 30px;
-  color: #eee;
-  text-transform: uppercase;
+  background-color: transparent;
+  color: #000;
+  text-transform: capitalize;
 }
 
 .section-tittle.center-algiment.black {
   font-family: Nunito, sans-serif;
   color: #000;
+}
+
+.section-tittle.center-algiment.white-text {
+  color: #eee;
 }
 
 .section-tittle.percentual {
@@ -3244,6 +3257,7 @@ blockquote {
   width: 90%;
   color: #7c8499;
   font-weight: 400;
+  text-align: left;
 }
 
 .about-us-text.add {
@@ -6345,7 +6359,7 @@ blockquote {
 .blog-content-info.who-am-i-button-links {
   left: 0px;
   width: 95%;
-  margin-top: 40px;
+  margin-top: 75px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -8170,6 +8184,11 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -8378,12 +8397,17 @@ blockquote {
   display: -ms-flexbox;
   display: flex;
   width: 30%;
+  height: 100%;
   padding-right: 0%;
   padding-left: 0%;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .promo-content.left-side {
@@ -8403,6 +8427,11 @@ blockquote {
 .link-4:hover {
   color: #8c0fff;
   text-decoration: underline;
+}
+
+.link-4.space {
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .promo-wrapper {
@@ -8720,15 +8749,18 @@ blockquote {
 
 .paragraph-18 {
   width: 100%;
+  margin-bottom: 0px;
   padding-right: 20px;
   font-family: Nunito, sans-serif;
   line-height: 22px;
   font-style: italic;
+  text-align: left;
 }
 
 .bold-text-9 {
   font-family: Nunito, sans-serif;
   line-height: 22px;
+  text-align: left;
 }
 
 .section-tittle-5 {
@@ -8979,6 +9011,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  background-color: #fff;
   -webkit-transform: translate(0px, 0px);
   -ms-transform: translate(0px, 0px);
   transform: translate(0px, 0px);
@@ -8997,12 +9030,12 @@ blockquote {
 }
 
 .testi-photo._3 {
-  background-image: url('ceo.jpg');
+  background-image: url('ceo_1.jpg');
   background-size: cover;
 }
 
 .testi-photo._4 {
-  background-image: url('ceo_1.jpg');
+  background-image: url('ceo.jpg');
   background-size: cover;
 }
 
@@ -9079,7 +9112,7 @@ blockquote {
 
 .exp-tittle-2.white {
   font-family: Nunito, sans-serif;
-  color: #ddd;
+  color: #0b3c7e;
 }
 
 .sub-tittle-2 {
@@ -9350,6 +9383,10 @@ blockquote {
   width: 300px;
 }
 
+.paragraph-20 {
+  text-align: left;
+}
+
 .single-skill-bar-2 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -9611,6 +9648,106 @@ blockquote {
   align-items: flex-start;
 }
 
+.image-27 {
+  margin-bottom: 20px;
+}
+
+.image-28 {
+  margin-bottom: 20px;
+}
+
+.image-29 {
+  margin-bottom: 20px;
+}
+
+.image-30 {
+  margin-bottom: 20px;
+}
+
+.build-process-container {
+  margin-bottom: 0px;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.heading-11 {
+  font-size: 30px;
+  line-height: 40px;
+  text-align: left;
+}
+
+.paragraph-22 {
+  text-align: left;
+}
+
+.paragraph-23 {
+  text-align: left;
+}
+
+.paragraph-24 {
+  text-align: left;
+}
+
+.paragraph-25 {
+  text-align: left;
+}
+
+.paragraph-26 {
+  text-align: left;
+}
+
+.paragraph-27 {
+  text-align: left;
+}
+
+.paragraph-28 {
+  text-align: left;
+}
+
+.image-31 {
+  margin-bottom: 20px;
+}
+
+.image-32 {
+  margin-bottom: 20px;
+}
+
+.image-33 {
+  margin-bottom: 20px;
+}
+
+.image-34 {
+  margin-bottom: 20px;
+}
+
+.image-35 {
+  margin-bottom: 20px;
+}
+
+.image-36 {
+  margin-bottom: 20px;
+}
+
+.image-37 {
+  margin-bottom: 20px;
+}
+
+.image-38 {
+  margin-bottom: 20px;
+}
+
+.image-39 {
+  margin-bottom: 20px;
+}
+
+.image-40 {
+  margin-bottom: 20px;
+}
+
+.image-41 {
+  margin-bottom: 20px;
+}
+
 @media screen and (max-width: 991px) {
   li {
     padding-top: 0px;
@@ -9774,7 +9911,7 @@ blockquote {
   .section.white-gradient {
     padding-top: 60px;
   }
-  .section.project-1.project-2 {
+  .section.project2.project-2 {
     padding-top: 100px;
     padding-bottom: 100px;
   }
@@ -9833,7 +9970,7 @@ blockquote {
   }
   .section-header.exper.white {
     font-family: Nunito, sans-serif;
-    color: #ddd;
+    color: #000;
     font-size: 25px;
     font-weight: 300;
   }
@@ -10016,7 +10153,7 @@ blockquote {
     font-size: 20px;
   }
   .preview-container.blog {
-    width: 45%;
+    width: 80%;
     height: auto;
     margin-left: 0px;
   }
@@ -10053,6 +10190,13 @@ blockquote {
     border-bottom-left-radius: 0px;
   }
   .preview-image.list.reverse.sfs-money {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .preview-image.list.vertical {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -10276,8 +10420,9 @@ blockquote {
     margin-bottom: 40px;
   }
   .blog-content-info {
-    left: -40px;
-    width: 55%;
+    left: 0px;
+    width: 80%;
+    margin-top: -20px;
     margin-left: 0px;
     padding-right: 25px;
     padding-bottom: 40px;
@@ -10851,7 +10996,7 @@ blockquote {
   }
   .exp-tittle-2.white {
     font-family: Nunito, sans-serif;
-    color: #ddd;
+    color: #0b3c7e;
     font-weight: 300;
   }
   .wrapper-full-2 {
@@ -11067,12 +11212,12 @@ blockquote {
   .section.white-gradient {
     padding-top: 60px;
   }
-  .section.project-1 {
+  .section.project2 {
     padding-top: 100px;
     padding-bottom: 100px;
     background-image: none;
   }
-  .section.project-1.project-2 {
+  .section.project2.project-2 {
     padding-top: 100px;
     padding-bottom: 100px;
   }
@@ -11089,7 +11234,7 @@ blockquote {
   }
   .section-header.exper.white {
     font-family: Nunito, sans-serif;
-    color: #ddd;
+    color: #000;
   }
   .algin-center.padding {
     font-family: Nunito, sans-serif;
@@ -11696,6 +11841,13 @@ blockquote {
     left: 0px;
     right: 0px;
   }
+  .block-wrapper-button {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
   .licence-items-2 {
     width: 100%;
   }
@@ -11720,6 +11872,9 @@ blockquote {
   .promo-content.left-side {
     margin-bottom: 0px;
     padding-left: 0%;
+  }
+  .link-4.space {
+    margin-top: 10px;
   }
   .promo-wrapper {
     margin-bottom: 0px;
@@ -11846,7 +12001,7 @@ blockquote {
   }
   .exp-tittle-2.white {
     font-family: Nunito, sans-serif;
-    color: #ddd;
+    color: #0b3c7e;
   }
   .wrapper-full-2 {
     padding-right: 10px;
@@ -12084,12 +12239,12 @@ blockquote {
   .section.white.pattern {
     padding-bottom: 0px;
   }
-  .section.project-1 {
+  .section.project2 {
     padding-top: 50px;
     padding-bottom: 100px;
     background-image: none;
   }
-  .section.project-1.project-2 {
+  .section.project2.project-2 {
     padding-top: 50px;
     padding-bottom: 100px;
   }
@@ -12133,7 +12288,7 @@ blockquote {
   }
   .section-header.exper.white {
     font-family: Nunito, sans-serif;
-    color: #ddd;
+    color: #000;
     text-align: left;
   }
   .algin-center {
@@ -12486,7 +12641,7 @@ blockquote {
   .banner-hero.sixth {
     height: 650px;
     padding: 30px 20px 0px;
-    background-position: 0px 0px, 50% 50%;
+    background-position: 0px 0px, 50% 60%;
     background-attachment: scroll, fixed;
     font-family: Nunito, sans-serif;
     color: #0b356e;
@@ -12622,8 +12777,8 @@ blockquote {
   }
   .blog-content-info.project-2 {
     margin-top: 20px;
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
   }
   .blog-content-info.who-am-i-button-links {
     -webkit-box-orient: vertical;
@@ -12982,8 +13137,14 @@ blockquote {
     font-size: 25px;
     line-height: 30px;
   }
+  .bold-text-10 {
+    color: #000;
+  }
   .bold-text-10.sfs-money-gallery-link {
-    color: #0675ec;
+    color: #eee;
+  }
+  .bold-text-10.white {
+    color: #fff;
   }
   .image-8 {
     display: block;
@@ -13017,7 +13178,7 @@ blockquote {
   }
   .exp-tittle-2.white {
     font-family: Nunito, sans-serif;
-    color: #ddd;
+    color: #0b3c7e;
   }
   .sub-tittle-2 {
     font-family: Nunito, sans-serif;
@@ -13110,6 +13271,10 @@ blockquote {
   }
   .button-1.first-button {
     margin-right: 0px;
+  }
+  .heading-11 {
+    font-size: 25px;
+    line-height: 30px;
   }
 }
 
